@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Full Stack Developer",
+    "organisation": "ConDigital",
+    "startDate": "Dec, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Server-side logic implementation with back-end technologies",
+      "Front-end development",
+      "Team collaboration for feature definition, design, and deployment",
+      "Bug identification and resolution for performance enhancement"
+    ],
+    "imageSrc": "history/condigital.png"
+  },
+  {
+    "role": "Backend Developer",
+    "organisation": "alx",
+    "startDate": "Dec, 2023",
+    "endDate": "Apr, 2024",
+    "experiences": [
+      "Developed and maintained backend services",
+      "Worked on data processing and storage",
+      "Ensure data security and handle authentication and authorization."
+    ],
+    "imageSrc": "history/alx.png"
+  }
+]

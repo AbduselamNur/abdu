@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Bridge Real Estate",
+    "imageSrc": "projects/bridge.png",
+    "skills": ["React", "Redux", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/AbduselamNur/Bridge-real-estate",
+    "description": "A platform designed to facilitate property transactions for rentals and sales."
+  },
+  {
+    "title": "Filwuha Orders",
+    "imageSrc": "projects/filwuha.png",
+    "skills": ["Tailwind", "React", "Flask", "MySQL"],
+    "demo": "https://filwuha-ms.vercel.app",
+    "source": "https://github.com/AbduselamNur/filwuha_ms",
+    "description": "A project aims to bring a solution for customers to facilitate the ordering process of a bathhouse."
+  },
+  {
+    "title": "E-commerce",
+    "imageSrc": "projects/inkverse.png",
+    "skills": ["React", "Redux", "Express", "Node", "MongoDB"],
+    "demo": "https://inkverse-bookstore-tau.vercel.app/",
+    "source": "https://github.com/AbduselamNur/inkverse-bookstore",
+    "description": "An e-commerce platform that allows users to browse, search, and purchase books."
+  },
+  {
+    "title": "Song App",
+    "imageSrc": "projects/song.png",
+    "skills": ["React", "Redux", "Express", "Node", "MongoDB"],
+    "demo": "https://song-mern.vercel.app/",
+    "source": "https://github.com/AbduselamNur/song_mern",
+    "description": "A platform that allows users to manage information for songs."
+  },
+  {
+    "title": "Simple Shell",
+    "imageSrc": "projects/console.png",
+    "skills": ["C"],
+    "demo": "https://github.com/AbduselamNur/simple_shell",
+    "source": "https://github.com/AbduselamNur/simple_shell",
+    "description": "A simple UNIX command interpreter that replicates the basic functionalities of the sh shell."
+  },
+  {
+    "title": "AirBnB Clone",
+    "imageSrc": "projects/project.png",
+    "skills": ["HTML", "CSS", "Python", "Flask", "MySQL"],
+    "demo": "https://github.com/AbduselamNur/AirBnB_clone",
+    "source": "https://github.com/AbduselamNur/AirBnB_clone",
+    "description": "This Project Made to learn the basics of web development."
+  },
+  {
+    "title": "Simple Management System",
+    "imageSrc": "projects/user.png",
+    "skills": ["Antd", "React", "Nestjs", "Prisma", "MySQL"],
+    "demo": "https://crud-app-82nz.vercel.app/",
+    "source": "https://github.com/AbduselamNur/crud_app",
+    "description": "A simple management system that allows users to manage information for employees."
+  },
+  {
+    "title": "Printf",
+    "imageSrc": "projects/printf.png",
+    "skills": ["C"],
+    "demo": "https://github.com/AbduselamNur/printf",
+    "source": "https://github.com/AbduselamNur/printf",
+    "description": "A project that replicates the printf function and its functionalities in C."
+  }
+]
