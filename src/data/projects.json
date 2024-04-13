@@ -3,7 +3,7 @@
     "title": "Bridge Real Estate",
     "imageSrc": "projects/bridge.png",
     "skills": ["React", "Redux", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://661aa311adfe09abbb4afc11--hilarious-concha-73163c.netlify.app",
     "source": "https://github.com/AbduselamNur/Bridge-real-estate",
     "description": "A platform designed to facilitate property transactions for rentals and sales."
   },
