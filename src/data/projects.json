@@ -3,7 +3,7 @@
     "title": "Bridge Real Estate",
     "imageSrc": "projects/bridge.png",
     "skills": ["React", "Redux", "Express", "Node"],
-    "demo": "https://661aa311adfe09abbb4afc11--hilarious-concha-73163c.netlify.app",
+    "demo": "https://bridge.abduselam.tech/",
     "source": "https://github.com/AbduselamNur/Bridge-real-estate",
     "description": "A platform designed to facilitate property transactions for rentals and sales."
   },
@@ -51,7 +51,7 @@
     "title": "Simple Management System",
     "imageSrc": "projects/user.png",
     "skills": ["Antd", "React", "Nestjs", "Prisma", "MySQL"],
-    "demo": "https://crud-app-82nz.vercel.app/",
+    "demo": "https://crud.abduselam.tech/",
     "source": "https://github.com/AbduselamNur/crud_app",
     "description": "A simple management system that allows users to manage information for employees."
   },
