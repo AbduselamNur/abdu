@@ -7,9 +7,8 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Abdu</h1>
         <p className={styles.description}>
-          I'm a full-stack software engineer, I specialize in crafting robust
-          and innovative solutions that seamlessly integrate front-end and
-          back-end technologies. Reach out if you'd like to learn more!
+          I'm a full-stack software engineer with a passion for building
+          applications that help people. Reach out if you'd like to learn more!
         </p>
         <a
           href="mailto:abduselam765393@gmail.com"
