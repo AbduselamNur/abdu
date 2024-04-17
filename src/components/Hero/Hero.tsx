@@ -10,10 +10,7 @@ export const Hero = () => {
           I'm a full-stack developer with a passion for building web
           applications. Reach out if you'd like to learn more!
         </p>
-        <a
-          href="mailto:abduselam765393@gmail.com"
-          className={styles.contactBtn}
-        >
+        <a href="mailto:devabdu3@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
