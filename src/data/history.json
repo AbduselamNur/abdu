@@ -1,27 +1,34 @@
 [
   {
+    "role": "Software Engineer",
+    "organisation": "Corite",
+    "startDate": "Nov, 2024",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "history/corite_logo.png"
+  },
+  {
+    "role": "Mobile App & Full Stack Developer",
+    "organisation": "Blue Nile Technologies",
+    "startDate": "Nov, 2024",
+    "endDate": "Present",
+    "experiences": [],
+    "imageSrc": "history/blueniletech_logo.png"
+  },
+  {
     "role": "Full Stack Developer",
     "organisation": "ConDigital",
     "startDate": "Dec, 2023",
     "endDate": "Present",
-    "experiences": [
-      "Server-side logic implementation with back-end technologies",
-      "Front-end development",
-      "Team collaboration for feature definition, design, and deployment",
-      "Bug identification and resolution for performance enhancement"
-    ],
+    "experiences": [],
     "imageSrc": "history/condigital.png"
   },
   {
-    "role": "Backend Developer",
-    "organisation": "alx",
+    "role": "NestJS and ReactJS Developer",
+    "organisation": "Nova Tech",
     "startDate": "Dec, 2023",
     "endDate": "Apr, 2024",
-    "experiences": [
-      "Developed and maintained backend services",
-      "Worked on data processing and storage",
-      "Ensure data security and handle authentication and authorization."
-    ],
-    "imageSrc": "history/alx.png"
+    "experiences": [],
+    "imageSrc": "history/nova.png"
   }
 ]
